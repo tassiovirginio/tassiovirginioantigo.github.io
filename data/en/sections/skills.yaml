@@ -41,6 +41,11 @@ skills:
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
   url: "https://www.scala-lang.org/"
 
+- name: Linux
+  logo: "/images/sections/skills/linux.png"
+  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  url: "https://www.scala-lang.org/"
+
 - name: GIT
   logo: "/images/sections/skills/git.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
