@@ -26,6 +26,15 @@ socialLinks:
 - name: Github
   icon: "fab fa-github"
   url: "https://www.github.com/tassiovirginio"
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/tassiovirginio/"
+- name: Lattes
+  icon: "fa fa-user-circle"
+  url: "http://lattes.cnpq.br/0517470966104640"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/tassiovirginio"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
