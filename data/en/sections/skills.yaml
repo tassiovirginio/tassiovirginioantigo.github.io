@@ -16,16 +16,31 @@ skills:
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
   url: "https://www.java.com/"
 
-- name: Kubernetes
-  logo: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
-
-- name: Go Development
-  logo: "/images/sections/skills/go.png"
+- name: JavaServer Faces (JSF) 
+  logo: "/images/sections/skills/java.png"
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+  url: "https://www.oracle.com/java/technologies/javaserverfaces.html"
 
-- name: Cloud Computing
-  logo: "/images/sections/skills/cloud.png"
+- name: Hibernate 
+  logo: "/images/sections/skills/hibernate.jpg"
+  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  url: "https://hibernate.org/"
+
+- name: Spring 
+  logo: "/images/sections/skills/spring.png"
+  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  url: "https://spring.io/"
+
+- name: Apache Wicket
+  logo: "/images/sections/skills/wicket.png"
+  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  url: "https://wicket.apache.org/"
+
+- name: Scala Development
+  logo: "/images/sections/skills/scala.png"
+  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  url: "https://www.scala-lang.org/"
+
+- name: GIT
+  logo: "/images/sections/skills/git.png"
   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
