@@ -11,9 +11,9 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
+    name: IFTO
     url: "https://www.example.com"
-    location: Dhaka Branch
+    location: Paraíso do Tocantins - TO
     # company overview
     overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
@@ -28,14 +28,56 @@ experiences:
     - Lead backend team.
 
 - company:
-    name: PreExample Co.
+    name: SETAS - Secretaria de Trabalho e Assistência Social
     url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    location: Palmas-TO
+    overview: Development of internal systems for the secretariat, with technologies - Java, Angular, Spring, Hibernate, among others..
   positions:
   - designation: Software Engineer
     start: March 2016
     end: May 2017
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
+
+- company:
+    name: M2M Solutions S/A
+    url: "https://www.preexample.com"
+    location: Fortaleza, CE, Brasil
+    overview: Development of management systems for urban public transport, using geographic data. Technologies used - Java, Scala, Akka, GWT, GXT, Hibernate and Spring.
+  positions:
+  - designation: Software Engineer
+    start: May 2009
+    end: March 2013
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
+
+- company:
+    name: Pitang
+    url: "https://www.preexample.com"
+    location: Recife, PE, Brasil
+    overview: Development of web systems using Wicket, Hibernate and Spring frameworks.
+  positions:
+  - designation: Software Engineer
+    start: Jan 2009
+    end: May 2009
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
+
+- company:
+    name: Centro de Informática UFPE/Motorola
+    url: "https://www.preexample.com"
+    location: Fortaleza, CE, Brasil
+    overview: Automated test development for mobile devices.
+  positions:
+  - designation: Software Engineer
+    start: Jan 2008
+    end: Dez 2008
     responsibilities:
     - Write lots of example codes.
     - Read lots of examples.
