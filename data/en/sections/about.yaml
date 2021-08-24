@@ -15,10 +15,10 @@ company:
   url: "http://www.ifto.edu.br/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+# resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with 14 years of working experience. I currently work with JSF, JPA and EJB. Supporting the SIGA EPTC system that is used throughout the institution.'
+summary: 'I am a passionate software engineer with 14 years of working experience. I currently work with JSF, JPA and EJB. Supporting the SIGA EPTC system that is used throughout the Federal Institute of Tocantins.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -39,10 +39,42 @@ socialLinks:
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
-softSkills:
-- name: Leadership
+# softSkills:
+# - name: Leadership
+#   percentage: 85
+#   color: blue
+# - name: Team Work
+#   percentage: 90
+#   color: yellow
+
+badges:
+- type: certification
+  name: Certified Kubernetes Security Specialist
+  # url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  badge: "https://images.credly.com/images/8271b3d7-090a-42ec-9b84-d4f845698abd/Oracle-Certification-badge_OC-Professional600X600.png"
+
+- type: certification
+  name: Istio and IBM Cloud Kubernetes Service
+  # url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  badge: "https://thiagocoutinho.com/certificados/sfc_badge.png"
+
+- type: certification
+  name: Artificial Intelligence and Machine Learning
+  # url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+  badge: "https://multitestecertificacoes.com.br/wp-content/uploads/2018/11/logo-toefl-itp.jpg"
+
+- type: soft-skill-indicator
+  name: Leadership
   percentage: 85
   color: blue
-- name: Team Work
+
+- type: soft-skill-indicator
+  name: Team Work
   percentage: 90
   color: yellow
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 85
+  color: orange
+  
