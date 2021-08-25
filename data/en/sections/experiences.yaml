@@ -23,9 +23,10 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Systems development using Java language.
+    # - Design and develop XYZ tool for ABC task
+    # - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+    # - Lead backend team.
 
 - company:
     name: SETAS - Secretaria de Trabalho e Assistência Social
@@ -37,23 +38,20 @@ experiences:
     start: March 2016
     end: May 2017
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Systems development using Java language.
 
 - company:
     name: M2M Solutions S/A
     url: "http://www.m2msolutions.com.br/"
     location: Fortaleza, CE, Brasil
-    overview: M2M Solutions is a provider of Information Technology solutions for the management and optimization of transport operations, serving bus companies, government, unions and end users. Development of management systems for urban public transport, using geographic data. Technologies used - Java, Scala, Akka, GWT, GXT, Hibernate and Spring.
+    overview: M2M Solutions is a provider of Information Technology solutions for the management and optimization of transport operations, serving bus companies, government, unions and end users. Development of management systems for urban public transport, using geographic data.
   positions:
   - designation: Software Engineer
     start: May 2009
     end: March 2013
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Responsible for the realtime geographic metrics processing system.
+    - Technologies used - Java, Scala, Akka, GWT, GXT, Hibernate and Spring.    
 
 - company:
     name: Pitang
@@ -65,9 +63,9 @@ experiences:
     start: Jan 2009
     end: May 2009
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Systems development using Java language and Apache Wicket and Spring frameworks.
+    # - Read lots of examples.
+    # - See lots of example videos.
 
 - company:
     name: Centro de Informática UFPE/Motorola
@@ -75,7 +73,7 @@ experiences:
     location: Fortaleza, CE, Brasil
     overview: The UFPE Informatics Center is one of the most renowned centers for teaching and research in computing in Brazil and Latin America, training qualified professionals and excellence in Information and Communication Technology (ICT).
   positions:
-  - designation: Software Engineer
+  - designation: Software Engineer (trainee)
     start: Jan 2008
     end: Dez 2008
     responsibilities:
