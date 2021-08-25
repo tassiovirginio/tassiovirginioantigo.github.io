@@ -12,10 +12,10 @@ section:
 experiences:
 - company:
     name: IFTO
-    url: "https://www.example.com"
+    url: "http://www.ifto.edu.br/"
     location: Paraíso do Tocantins - TO
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: The IFTO is an institution of higher, basic and professional education, pluricurricular and multicampi (rector, campus, advanced campus and distance education centers), specialized in offering professional and technological education in different teaching modalities, based on the combination of technical and technological knowledge with their pedagogical/andragogic practices.
   positions:
   - designation: Senior Software Engineer
     start: Nov 2019
@@ -29,9 +29,9 @@ experiences:
 
 - company:
     name: SETAS - Secretaria de Trabalho e Assistência Social
-    url: "https://www.preexample.com"
+    url: "https://www.to.gov.br/setas"
     location: Palmas-TO
-    overview: Development of internal systems for the secretariat, with technologies - Java, Angular, Spring, Hibernate, among others..
+    overview: SETAS, a public administration body of the Executive Power created on December 22, 1995, directly and immediately assists the State Government of Tocantins in the performance of its duties to plan, coordinate, guide and execute the State Policy on Social Assistance, Solidarity Economy , Labor and Food Security, aiming at economic and social development.
   positions:
   - designation: Software Engineer
     start: March 2016
@@ -43,9 +43,9 @@ experiences:
 
 - company:
     name: M2M Solutions S/A
-    url: "https://www.preexample.com"
+    url: "http://www.m2msolutions.com.br/"
     location: Fortaleza, CE, Brasil
-    overview: Development of management systems for urban public transport, using geographic data. Technologies used - Java, Scala, Akka, GWT, GXT, Hibernate and Spring.
+    overview: M2M Solutions is a provider of Information Technology solutions for the management and optimization of transport operations, serving bus companies, government, unions and end users. Development of management systems for urban public transport, using geographic data. Technologies used - Java, Scala, Akka, GWT, GXT, Hibernate and Spring.
   positions:
   - designation: Software Engineer
     start: May 2009
@@ -59,7 +59,7 @@ experiences:
     name: Pitang
     url: "https://www.preexample.com"
     location: Recife, PE, Brasil
-    overview: Development of web systems using Wicket, Hibernate and Spring frameworks.
+    overview: Founded in 2004, Pitang was the result of a spinoff from the Commercial Projects area of the C.E.S.A.R., one of the main innovation institutes in the country. We develop high quality services and solutions in Information and Communication Technology, focusing on market demands in an innovative way, through the development of exclusive projects that support the digital transformation of our customers using skills in Cognitive Computing, Digital Experience Platforms, Analytics , Cloud Computing, Mobile Apps, UX, Agility, DevOps and Testing.
   positions:
   - designation: Software Engineer
     start: Jan 2009
@@ -71,14 +71,14 @@ experiences:
 
 - company:
     name: Centro de Informática UFPE/Motorola
-    url: "https://www.preexample.com"
+    url: "https://portal.cin.ufpe.br/"
     location: Fortaleza, CE, Brasil
-    overview: Automated test development for mobile devices.
+    overview: The UFPE Informatics Center is one of the most renowned centers for teaching and research in computing in Brazil and Latin America, training qualified professionals and excellence in Information and Communication Technology (ICT).
   positions:
   - designation: Software Engineer
     start: Jan 2008
     end: Dez 2008
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Automated test development for mobile devices.
+    # - Read lots of examples.
+    # - See lots of example videos.
