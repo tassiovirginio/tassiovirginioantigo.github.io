@@ -53,7 +53,7 @@ projects:
   role: Developer
   # timeline: "Jun 2018 - Present"
   # repo: 
-  url: "http://www.m2msolutions.com.br/m2m-frota/"
+  url: "https://sigaedu.ifto.edu.br/"
   summary: Integrated Academic Management System for Professional and Technological Education. Developed with JSF, JPA and EJB.
   tags: ["professional"]
 
