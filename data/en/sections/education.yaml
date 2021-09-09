@@ -21,7 +21,9 @@ degrees:
     achieved: 4
     outOf: 5
   publications: #(optional)
-  - title: "JNose: Java Test Smell Detector."
+  - title: "On the test smells detection: an empirical study on the JNose Test accuracy"
+    url: "https://sol.sbc.org.br/journals/index.php/jserd/article/view/1893"
+  - title: "JNose: Java Test Smell Detector"
     url: "https://dl.acm.org/doi/10.1145/3422392.3422499"
   - title: "An empirical study of automatically-generated tests from the perspective of test smells"
     url: "https://dl.acm.org/doi/10.1145/3422392.3422412"
