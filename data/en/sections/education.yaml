@@ -21,16 +21,19 @@ degrees:
     achieved: 4
     outOf: 5
   publications: #(optional)
-  - title: "On the test smells detection: an empirical study on the JNose Test accuracy"
+  - title: "Avaliação empírica da geração automatizada de testes desoftware sob a perspectiva de Test Smells - 2021"
+    url: "https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/17292/17130"  
+  - title: "On the test smells detection: an empirical study on the JNose Test accuracy - 2021"
     url: "https://sol.sbc.org.br/journals/index.php/jserd/article/view/1893"
-  - title: "JNose: Java Test Smell Detector"
+  - title: "JNose: Java Test Smell Detector - 2020"
     url: "https://dl.acm.org/doi/10.1145/3422392.3422499"
-  - title: "An empirical study of automatically-generated tests from the perspective of test smells"
+  - title: "An empirical study of automatically-generated tests from the perspective of test smells - 2020"
     url: "https://dl.acm.org/doi/10.1145/3422392.3422412"
-  - title: "On the influence of Test Smells on Test Coverage"
+  - title: "RAIDE: a tool for Assertion Roulette and Duplicate Assert identification and refactoring  - 2020"
+    url: "https://dl.acm.org/doi/10.1145/3422392.3422510"
+  - title: "On the influence of Test Smells on Test Coverage - 2019"
     url: "https://dl.acm.org/doi/10.1145/3350768.3350775"
-  - title: "RAIDE: a tool for Assertion Roulette and Duplicate Assert identification and refactoring"
-    url: "https://dl.acm.org/doi/10.1145/3422392.3422510"    
+
 
 - name: Specialization in Agile Software Development
   icon: fa-university
