@@ -10,6 +10,9 @@ section:
 
 # Your achievements achievements
 achievements:
+- title: Melhor Dissertação
+  image: /images/sections/achievements/cbsoft21.png
+  summary: Melhor Dissertação 2021 - Terceiro Lugar.
 - title: Best Paper
   image: /images/sections/achievements/jnose.jpeg
   summary: Best paper SBES Tools Track 2020.
