@@ -49,19 +49,19 @@ socialLinks:
 
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  # url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/images/8271b3d7-090a-42ec-9b84-d4f845698abd/Oracle-Certification-badge_OC-Professional600X600.png"
+  name: Oracle Certified Professional Java SE 6 Programmer
+  # url: "https://education.oracle.com/oracle-certified-professional-java-se-6-programmer/trackp_357"
+  badge: "http://images.credly.com/images/8271b3d7-090a-42ec-9b84-d4f845698abd/Oracle-Certification-badge_OC-Professional600X600.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  # url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://thiagocoutinho.com/certificados/sfc_badge.png"
+  name: Scrum Fundamentals Certified
+  # url: "https://www.scrumstudy.com/portuguese/scrum-fundamentals-certified"
+  badge: "http://thiagocoutinho.com/certificados/sfc_badge.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
+  name: TOEFL
   # url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://multitestecertificacoes.com.br/wp-content/uploads/2018/11/logo-toefl-itp.jpg"
+  badge: "http://multitestecertificacoes.com.br/wp-content/uploads/2018/11/logo-toefl-itp.jpg"
 
 - type: soft-skill-indicator
   name: Leadership
