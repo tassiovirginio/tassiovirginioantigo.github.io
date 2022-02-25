@@ -13,6 +13,24 @@ experiences:
 - company:
     name: IFTO
     url: "http://www.ifto.edu.br/"
+    location: Dianópolis - TO
+    # company overview
+    overview: The IFTO is an institution of higher, basic and professional education, pluricurricular and multicampi (rector, campus, advanced campus and distance education centers), specialized in offering professional and technological education in different teaching modalities, based on the combination of technical and technological knowledge with their pedagogical/andragogic practices.
+  positions:
+  - designation: EBTT teacher
+    start: Fev 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Fev 2022
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Teach students at basic, technical and higher levels.
+    # - Design and develop XYZ tool for ABC task
+    # - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+    # - Lead backend team.
+
+- company:
+    name: IFTO
+    url: "http://www.ifto.edu.br/"
     location: Paraíso do Tocantins - TO
     # company overview
     overview: The IFTO is an institution of higher, basic and professional education, pluricurricular and multicampi (rector, campus, advanced campus and distance education centers), specialized in offering professional and technological education in different teaching modalities, based on the combination of technical and technological knowledge with their pedagogical/andragogic practices.
@@ -20,7 +38,7 @@ experiences:
   - designation: Senior Software Engineer
     start: May 2017
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: Fev 2022
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Systems development using Java language.
