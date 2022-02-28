@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Teacher
 # your company information
 company:
-  name: IFTO
-  url: "http://www.ifto.edu.br/"
+  name: IFTO - Campus Dianópolis
+  url: "http://www.ifto.edu.br/dianopolis"
 
 # your resume. this file path should be relative to you "static" directory
 # resume: "files/resume.pdf"
