@@ -35,6 +35,10 @@ socialLinks:
 - name: Twitter
   icon: "fab fa-twitter"
   url: "https://twitter.com/tassiovirginio"
+- name: CodePen
+  icon: "fab fa-codepen"
+  url: "https://codepen.io/tassiovirginio"
+  
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
