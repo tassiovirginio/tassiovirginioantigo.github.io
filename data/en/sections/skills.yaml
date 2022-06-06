@@ -11,6 +11,11 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+- name: Javascript/ECMAScript Teacher
+  logo: "/images/sections/skills/es.png"
+  summary: "Using the subjects I teach at IFTO, Data Structure, Development of Internet Systems and Web Applications."
+  url: "https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"
+
 - name: Java Development
   logo: "/images/sections/skills/java.png"
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
