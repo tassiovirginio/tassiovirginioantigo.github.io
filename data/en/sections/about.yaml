@@ -35,9 +35,15 @@ socialLinks:
 - name: Twitter
   icon: "fab fa-twitter"
   url: "https://twitter.com/tassiovirginio"
+- name: Dev
+  icon: "fab fa-dev"
+  url: "https://dev.to/tassio"
 - name: CodePen
   icon: "fab fa-codepen"
   url: "https://codepen.io/tassiovirginio"
+- name: CodeTrace
+  icon: "fab fa-code"
+  url: "https://codetrace.com/users/tassiovirginio/"
   
 
 # your soft skills
