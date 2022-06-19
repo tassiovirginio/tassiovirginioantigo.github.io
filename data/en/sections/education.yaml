@@ -16,10 +16,10 @@ degrees:
   institution:
     name: Federal University of Bahia - UFBA
     url: "http://wiki.dcc.ufba.br/PGComp/"
-  grade: #(optional)
-    scale: CAPES
-    achieved: 4
-    outOf: 5
+  #grade: #(optional)
+    #scale: CAPES
+    #achieved: 4
+    #outOf: 5
   publications: #(optional)
   - title: "Refactoring Assertion Roulette and Duplicate Assert test smells: a controlled experiment - 2022"
     url: "https://cibse2022.frc.utn.edu.ar/conferencia-principal-2/"
