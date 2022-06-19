@@ -21,6 +21,8 @@ degrees:
     achieved: 4
     outOf: 5
   publications: #(optional)
+  - title: "Refactoring Assertion Roulette and Duplicate Assert test smells: a controlled experiment - 2022"
+    url: "https://cibse2022.frc.utn.edu.ar/conferencia-principal-2/"
   - title: "Avaliação empírica da geração automatizada de testes desoftware sob a perspectiva de Test Smells - 2021"
     url: "https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/17292/17130"  
   - title: "On the test smells detection: an empirical study on the JNose Test accuracy - 2021"

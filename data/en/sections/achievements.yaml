@@ -10,19 +10,22 @@ section:
 
 # Your achievements achievements
 achievements:
+- title: Best Paper - CIbSE 2022
+  image: /images/sections/achievements/cibse2022.jpeg
+  summary: Best Paper - CIbSE 2022
 - title: Melhor Dissertação
   image: /images/sections/achievements/cbsoftsoft21.png
   summary: Melhor Dissertação 2021 - Terceiro Lugar.
-- title: Best Paper
+- title: Best Paper - SBES 2020
   image: /images/sections/achievements/jnose.jpeg
-  summary: Best paper SBES Tools Track 2020.
+  summary: Best Paper SBES Tools Track 2020.
 - title: CBSOFT'19 - Web Chairs
   image: /images/sections/achievements/cbsoft2.jpeg
   summary: CBSOFT 2019 Web Chairs.
-- title: M.sc
+- title: Master in Science Computer
   image: /images/sections/achievements/defesa.jpg
   summary: Approved as a Master in Science Computer.
-- title: Specialist
+- title: Specialist in Agile Software Development
   image: /images/sections/achievements/defesa_uni7.jpg
   summary: Banking Defense in Agile Software Development Specialization.
 # - title: Graduation
