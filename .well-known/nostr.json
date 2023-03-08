@@ -1,5 +1,8 @@
 {
   "names": {
     "tassio":"npub15p98l0qyh3582rz5zznd7hehmde3jxqxv9uddrgaadyw5ruynceqr0mmnc"
+  },
+  "relays": {
+    "npub15p98l0qyh3582rz5zznd7hehmde3jxqxv9uddrgaadyw5ruynceqr0mmnc": [ "wss://relay.damus.io", "wss://nostr.mom", "wss://no.str.cr", "wss://relay.nostr.bg", "wss://nostr.bitcoiner.social" ]
   }
 }
