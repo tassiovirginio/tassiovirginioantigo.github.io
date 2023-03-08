@@ -62,3 +62,4 @@ params:
     favicon: images/favicon-32x32.png
 
 
+include: [".well-known"]
