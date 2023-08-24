@@ -68,10 +68,10 @@ badges:
   # url: "https://www.scrumstudy.com/portuguese/scrum-fundamentals-certified"
   badge: "https://i0.wp.com/edinburghagile.com/wp-content/uploads/2020/09/Scrum-Master-Certified-SMC-Badge.png?resize=609%2C656&ssl=1"
 
-- type: certification
-  name: TOEFL
-  # url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "http://multitestecertificacoes.com.br/wp-content/uploads/2018/11/logo-toefl-itp.jpg"
+#- type: certification
+#  name: TOEFL
+#  # url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+#  badge: "http://multitestecertificacoes.com.br/wp-content/uploads/2018/11/logo-toefl-itp.jpg"
 
 - type: soft-skill-indicator
   name: Leadership
