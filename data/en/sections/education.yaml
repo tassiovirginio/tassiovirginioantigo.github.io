@@ -21,6 +21,8 @@ degrees:
     #achieved: 4
     #outOf: 5
   publications: #(optional)
+  - title: "An empirical evaluation of RAIDE: a semi-automated approach for test smells detection and refactoring - 2023"
+    url: "https://www.sciencedirect.com/science/article/abs/pii/S0167642323000953"
   - title: "Refactoring Assertion Roulette and Duplicate Assert test smells: a controlled experiment - 2022"
     url: "https://cibse2022.frc.utn.edu.ar/conferencia-principal-2/"
   - title: "Avaliação empírica da geração automatizada de testes desoftware sob a perspectiva de Test Smells - 2021"
